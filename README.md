@@ -1,6 +1,6 @@
-# QuickInventory - Diploma Project
+# QuickInventory
 
-QuickInventory is a modern frontend inventory management web application developed as a diploma project.  
+QuickInventory is a modern frontend inventory management web application.  
 The system is designed to assist small shops and businesses in managing products, recording daily sales, and monitoring key business statistics through a responsive dashboard interface.
 
 The project is available online via Vercel: [Visit Project](https://quick-inventory-last.vercel.app)
